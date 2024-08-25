@@ -1,0 +1,160 @@
+[
+    {
+      "id":"1",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Hiruni Exp",
+      "from":"Anuradhapura",
+      "to":"Kandy",
+      "departAt": "8.00 AM",
+      "arrT": "12.00 PM"
+    },
+
+    {
+      "id":"2",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Thiya Exp",
+      "from":"Rathnapura",
+      "to":"kandy",
+      "departAt": "5.00 AM",
+      "arrT": "7.00 AM"
+    },
+    {
+      "id":"3",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Kesh Exp",
+    
+      "from":"Colombo",
+      "to":"Kurunegala",
+      "departAt": "6.00 AM",
+      "arrT": "8.00 AM"
+    },
+    {"id":"4",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Supun Exp",
+      
+      "from":"Anuradhapura",
+      "to":"Nikaweratiya",
+      "departAt": "5.00 AM",
+      "arrT": "9.00 AM"
+    },
+    {"id":"5",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Yuwi Exp",
+     
+      "from":"Galle",
+      "to":"Matara",
+      "departAt": "4.00 PM",
+      "arrT": "5.30 PM"
+    },
+    {"id":"6",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Gayya Exp",
+     
+      "from":"Anuradhapura",
+      "to":"Kandy",
+      "departAt": "5.00 AM",
+      "arrT": "7.00 AM"
+    },
+    {"id":"7",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Tharani Exp",
+     
+      "from":"Anuradhapura",
+      "to":"colombo",
+      "departAt": "5.00 AM",
+      "arrT": "9.00 AM"
+    },
+    {"id":"8",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "DS Exp",
+     
+      "from":"Galle",
+      "to":"Matara",
+      "departAt": "5.00 AM",
+      "arrT": "6.00 AM"
+    },
+    {"id":"9",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Chathuranga Exp",
+     
+      "from":"Anuradhapura",
+      "to":"Galle",
+      "departAt": "5.00 AM",
+      "arrT": "10.00 AM"
+    },
+    {"id":"10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2Jrh87wBBSynrrWpBZjKiDmHW3c5wbR4QA&s",
+      "Name": "Rathna Exp",
+      "from":"Negombo",
+      "to":"NUwaraeliya",
+      "departAt": "7.00 AM",
+      "arrT": "12.00 PM"
+    },
+    {"id":"11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2Jrh87wBBSynrrWpBZjKiDmHW3c5wbR4QA&s",
+      "Name": "Vidu baba ",
+      "from":"colombo",
+      "to":"kandy",
+      "departAt": "9.00 AM",
+      "arrT": "12.00 PM"
+    },
+    {"id":"12",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2Jrh87wBBSynrrWpBZjKiDmHW3c5wbR4QA&s",
+      "Name": "Chuty Baba",
+      "from":"colombo",
+      "to":"kandy",
+      "departAt": "5.00 AM",
+      "arrT": "7.00 AM"
+    },
+    {"id":"13",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2Jrh87wBBSynrrWpBZjKiDmHW3c5wbR4QA&s",
+      "Name": "Loku Baba",
+      "from":"Gampaha",
+      "to":"kandy",
+      "departAt": "8.00 AM",
+      "arrT": "12.00 PM"
+    },
+    {"id":"14",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2Jrh87wBBSynrrWpBZjKiDmHW3c5wbR4QA&s",
+      "Name": "Dumburu lamissi",
+      "from":"Polonnaruwa",
+      "to":"Jaffna",
+      "departAt": "4.00 AM",
+      "arrT": "9.00 AM"
+    },
+    {"id":"15",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2Jrh87wBBSynrrWpBZjKiDmHW3c5wbR4QA&s",
+      "Name": "Dam Rajina",
+      "from":"Chilaw",
+      "to":"Kurunegala",
+      "departAt": "7.00 AM",
+      "arrT": "9.00 AM"
+    },
+    {"id":"15",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2Jrh87wBBSynrrWpBZjKiDmHW3c5wbR4QA&s",
+      "Name": "Ben 10",
+      "from":"Trincomalee",
+      "to":"Colombo",
+      "departAt": "6.00 AM",
+      "arrT": "11.00 AM"
+    },
+    {"id":"16",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2Jrh87wBBSynrrWpBZjKiDmHW3c5wbR4QA&s",
+      "Name": "Barbie",
+      "from":"Colombo",
+      "to":"Gampaha",
+      "departAt": "5.00 AM",
+      "arrT": "7.00 AM"
+    },
+    {"id":"17",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fbus-logo-template-on-transparent-background-png%2F&psig=AOvVaw0wO4xownr_ZzWrvARElLzj&ust=1719575065935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDW0r_a-4YDFQAAAAAdAAAAABAE",
+      "Name": "Sudu Chuty",
+      "from":"Hambanthota",
+      "to":"Katunayake",
+      "departAt": "5.00 PM",
+      "arrT": "7.00 PM"
+    }
+   
+    
+    
+  ]
